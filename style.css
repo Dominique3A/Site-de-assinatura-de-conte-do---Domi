@@ -21,7 +21,7 @@ body{
 }
 
 .principal{
-    background-image: url("img/Background.png");
+    background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -172,7 +172,7 @@ body{
 }
 
 .rodape_textoD {
-    margin: 10em 0 0 95em;
+    margin: 10em 0 0 88em;
     color: var(--cinza-secundario);
     font-size: 14px;
 }
